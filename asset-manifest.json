@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eunice-portfolio/static/css/main.8080083a.css",
-    "main.js": "/eunice-portfolio/static/js/main.b09be896.js",
+    "main.js": "/eunice-portfolio/static/js/main.590c05c3.js",
     "static/js/453.14970d75.chunk.js": "/eunice-portfolio/static/js/453.14970d75.chunk.js",
     "static/media/fa-solid-900.ttf": "/eunice-portfolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/eunice-portfolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.woff2": "/eunice-portfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/eunice-portfolio/index.html",
     "main.8080083a.css.map": "/eunice-portfolio/static/css/main.8080083a.css.map",
-    "main.b09be896.js.map": "/eunice-portfolio/static/js/main.b09be896.js.map",
+    "main.590c05c3.js.map": "/eunice-portfolio/static/js/main.590c05c3.js.map",
     "453.14970d75.chunk.js.map": "/eunice-portfolio/static/js/453.14970d75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8080083a.css",
-    "static/js/main.b09be896.js"
+    "static/js/main.590c05c3.js"
   ]
 }
